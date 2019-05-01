@@ -1,0 +1,10 @@
+wykonanie funkcji filtracji splotowej dla nastêpuj¹cych metod
+f. Robertsa
+f. Laplace’a
+f. Prewitta;
+f. Sobela;
+f. Kirscha
+sprawdzenie nast. kryteriów dotycz¹cych dzia³ania filtracji
+-dok³adnoœæ filtracji (czy krawêdŸ jest wykryta w miejscu, w którym faktycznie przebiega)
+-jednoznacznoœæ (czy wykryta krawêdŸ jest „pojedyncza”, czy mo¿na jednoznacznie stwierdziæ, w które miejsce w wyniku odpowiada za krawêdŸ)
+-odpornoœæ na szum (czy wykrywane s¹ dodatkowe elementy obrazu, nie bêd¹ce krawêdziami)
