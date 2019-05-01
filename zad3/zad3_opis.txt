@@ -1,0 +1,3 @@
+1. Pierwszy polega na stworzeniu funkcji obliczania macierzy wspó³wystepowania dla obrazu w odcieniach szaroœci z dowoln¹ liczb¹ przedzia³ów jasnoœci P (macierz o wymiarach PxP), gdzie P=1,…,256 (chodzi o rozró¿niane poziomy jasnoœci w obrazie, podobnie, jak w przypadku histogramu 1D) oraz dowoln¹ relacj¹, tzn. z dowolnym kierunkiem i odleg³oœci¹ opisuj¹c¹ porównywanie piksele.
+
+2. Drugi etap polega na zaproponowaniu miary „ostroœci” obrazu, bazuj¹cej na macierzy wspó³wystêpowiania. Przyk³adem mo¿e byæ liczba (suma) pikseli na przek¹tnej w stosunku do pozosta³ych pikseli w macierzy wspó³wystepowiania lub te¿ szerokoœc obszaru wystêpowania wartoœci>0 w macierzy wspó³wystepowiania „wokó³” przek¹tnej.
